@@ -2,13 +2,13 @@
 python stereogram as 3D anaglyph viewer
 ## Description
 `sgview` (stereogram viewer) is a python script that converts standard, full color 2D stereogram image pairs into 3D anaglyphs that can be viewed with appropriate color filter glasses.  
-Below is an example of a possible stereogram input followed by the processed *red-cyan* and *triscopic* anaglyphs.  
+Below is an example of a possible stereogram input followed by the processed *red-cyan* and *trioscopic* anaglyphs.  
   
 **Input:**  
 [stereogram example](examples/stereograms/stereograph.jpg)
   
 **Output:**  
-[red_cyan example](examples/anaglyphs/stereograph-red_cyan.jpg) [triscopic example](examples/anaglyphs/stereograph-triscopic.jpg)  
+[red_cyan example](examples/anaglyphs/stereograph-red_cyan.jpg) [trioscopic example](examples/anaglyphs/stereograph-triscopic.jpg)  
   
 ## Usage
 Run `sgview.py -h` to display the detailed syntax information. 
